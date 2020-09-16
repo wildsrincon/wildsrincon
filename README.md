@@ -9,12 +9,12 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/wildcox80/wildcox80/blob/master/typescript.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+| <img src="https://github.com/wildcox80/wildcox80/blob/master/typescript.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
 |:---:|:---:|:---:|
 
 
 ### Tools :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/node.png" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/react.jpg" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/angular.png" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/aws.png" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/aws.png" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/dockerhero.jpg" width=60> |
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/node.png" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/react.jpg" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/angular.png" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/aws.png" width=60> | <img src="https://github.com/wildcox80/wildcox80/blob/master/dockerhero.jpg" width=60> |
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
