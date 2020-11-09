@@ -47,6 +47,17 @@
 <a target="_blank" href="https://github.com/wildcox80/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
 </p>
 <br/><br/>
+	
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wildcox80&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildcox80&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
 
 
 
