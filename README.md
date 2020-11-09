@@ -43,10 +43,6 @@
 
 
 <br/><br/>
-<p align="center">
-<a target="_blank" href="https://github.com/wildcox80/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
-</p>
-<br/><br/>
 	
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
