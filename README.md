@@ -53,6 +53,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
   
+<br>  
+
 [![wildsrincon GitHub stats](https://github-readme-stats.vercel.app/api?username=wildsrincon&show_icons=true&theme=cobalt)](https://github.com/wildsrincon/github-readme-stats)
 
 
