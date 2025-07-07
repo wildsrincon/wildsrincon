@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/wildsrincon" target="blank"><img src="https://img.shields.io/twitter/follow/wildsrincon?logo=twitter&style=for-the-badge" alt="wildsrincon" /></a> </p>
 
-- 🔭 I’m currently working on **Wadu Project**
+- 👋 Hello, I'm Wilds Rincon, a freelance web developer
+
+- 👀 I'm working with companies on their products
+
+- 🌱 My passions are @reactjs, @nextjs, @typescript, @nodejs, @python
 
 - 🌱 I’m currently learning **Python and Data engineer in DataCamp**
 
@@ -13,11 +17,15 @@
 
 - 👨‍💻 All of my projects are available at [https://wildsrincon.engineer](https://wildsrincon.engineer)
 
-- 💬 Ask me about **React, Python, Next JS**
+- 💬 Ask me about **React, Python, Next JS, Python**
 
 - 📫 How to reach me **wildsrincon.developer@gmail.com**
 
 - 📄 Know about my experiences [https://rxresu.me/wildsrincon.developer/wichos80](https://rxresu.me/wildsrincon.developer/wichos80)
+
+## Github Profile
+
+[![wildsrincon github stats](https://github-readme-stats.vercel.app/api?username=wildsrincon&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/wildsrincon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
